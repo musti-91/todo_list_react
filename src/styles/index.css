@@ -1,0 +1,8 @@
+@import "./C_styles/reset.css";
+@import "./C_styles/App.css";
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import "./C_styles/animate.min.css";
+.animated {
+  width: 100%;
+}
